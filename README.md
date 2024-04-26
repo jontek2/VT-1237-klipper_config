@@ -42,7 +42,7 @@ Macros and config files are separeted in folders.
 - Front door: [Extrusion door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door/)
 
 ### Mechanics & Frame
-- Frame: LDO v2 250
+- Frame: LDO VT 250
 - X linear rail: LDO
 - Y linear rail: LDO
 - Z linear rail: LDO
@@ -53,7 +53,3 @@ Macros and config files are separeted in folders.
 - Heater pad: Keenovo silicone AC heater
 - Buildplate: Universal, 250x250x8mm
 - PEI: PrimaCreator Powder Coated PEI
-
-## Modifications
-
-TBH
