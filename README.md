@@ -3,8 +3,6 @@
 This repo contains data on VT.1237. 
 
 
-![VT.1237](./images/VT_1237.jpg)
-
 ## Config
 
 Klipper configs for VT.1237 (Orion 250) printer running fluidd.
